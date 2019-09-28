@@ -1,0 +1,4 @@
+﻿  SimpleClass.cpp
+  Wrapper.cpp
+MSVCRT.lib(exe_main.obj) : error LNK2001: unresolved external symbol _main
+G:\My Drive\UOIT\UOIT Course Files\Year 3\Semester 1\Game Engine Design & Implementation\Tutorials\Tutorial 2\DLL Tutorial 2\Release\DLL Tutorial 2.exe : fatal error LNK1120: 1 unresolved externals
